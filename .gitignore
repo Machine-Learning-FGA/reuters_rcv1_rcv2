@@ -2,3 +2,5 @@ rcv1rcv2aminigoutte/**/Index_*
 .ipynb*
 *.zip
 *.tar.gz
+*.txt
+**/*.txt
